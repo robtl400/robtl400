@@ -8,6 +8,7 @@ For about a decade I ran operations, advance, and scheduling for presidential, U
 
 - **[Powerline](https://github.com/robtl400/powerline)** — open-source WebRTC call-campaign platform, a successor to CallPower. Supporters click "Call Now" and reach their representatives from the browser. FastAPI, PostgreSQL, Redis, Celery, Twilio, React. AGPL-3.0.
 - **[ImmediArt](https://github.com/robtl400/immediart)** — Instagram-style art discovery over The Met's open collection. Infinite feed, artist and hashtag grids, pinch-zoom detail views, installable PWA. [Live](https://immediart.netlify.app).
+- **[On Deck](https://github.com/robtl400/on-deck)** — macOS menu bar app with live MLB scores for your team and a 30-team standings popover. Swift and AppKit, no dependencies, 66 tests.
 
 ## Elsewhere
 
