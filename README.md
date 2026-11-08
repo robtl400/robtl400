@@ -8,7 +8,6 @@ For about a decade I ran operations, advance, and scheduling for presidential, U
 
 - **[Powerline](https://github.com/robtl400/powerline)** — open-source WebRTC call-campaign platform, a successor to CallPower. Supporters click "Call Now" and reach their representatives from the browser. FastAPI, PostgreSQL, Redis, Celery, Twilio, React. AGPL-3.0.
 - **[ImmediArt](https://github.com/robtl400/immediart)** — Instagram-style art discovery over The Met's open collection. Infinite feed, artist and hashtag grids, pinch-zoom detail views, installable PWA. [Live](https://immediart.netlify.app).
-- **[CookBook](https://github.com/robtl400/cook-book-app)** — social recipe-sharing built around what you actually cooked, with URL import and an attribution chain for every recipe. Flask and React. [Live](https://cook-book-app.netlify.app).
 
 ## Elsewhere
 
